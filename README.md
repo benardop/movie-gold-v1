@@ -163,7 +163,7 @@ If you like this project kindly give a star to this repository
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- We would like to thank [Freecodecamp](https://www.freecodecamp.org/)
+- We would like to thank [Freecodecamp](https://www.freecodecamp.org/) for providing the technical support
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
