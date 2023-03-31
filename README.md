@@ -74,10 +74,7 @@ To get a local copy up and running, follow these steps.
 ````
 git clone https://github.com/benardop/movie-gold-v1.git
 cd movie-gold-v1
-ls
 ````
-git clone https://github.com/benardop/movie-list.git
-cd movie-list
 
 ### Prerequisites
 
