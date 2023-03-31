@@ -1,6 +1,6 @@
 import Hero from '../hero/Hero'
 
-export const Home = (movies) => {
+const Home = ({movies}) => {
   return (
     <Hero movies = {movies} />
   )
